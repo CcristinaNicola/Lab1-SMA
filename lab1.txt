@@ -1,0 +1,3 @@
+If both listener and the clicked method are implemented will they both run without problems.
+The layout stays the same,and the page will rotate.
+
